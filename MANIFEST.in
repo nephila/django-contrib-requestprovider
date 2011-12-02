@@ -1,0 +1,3 @@
+include MANIFEST.in
+recursive-include gadjo/*
+recursive-include gadjo/requestprovider*
